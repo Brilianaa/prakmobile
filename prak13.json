@@ -1,3 +1,6 @@
+Berikut adalah data yang telah ditambahkan hingga menjadi 10 entri:
+
+```json
 {
   "result": [
     {
@@ -62,6 +65,33 @@
       "International": "USA",
       "Team": "Republic Records",
       "Poster": "https://m.media-amazon.com/images/I/413m3isueLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Leonardo DiCaprio",
+      "birth_date": "1974-11-11",
+      "Position": "Actor",
+      "International": "USA",
+      "Team": "Appian Way Productions",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDYwMjU2NF5BMl5BanBnXkFtZTgwNjI5NzgwMjE@._V1_.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Beyoncé",
+      "birth_date": "1981-09-04",
+      "Position": "Singer",
+      "International": "USA",
+      "Team": "Parkwood Entertainment",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3Mjk0Njg2OF5BMl5BanBnXkFtZTgwODU5MTM0NjE@._V1_.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Jennifer Lawrence",
+      "birth_date": "1990-08-15",
+      "Position": "Actress",
+      "International": "USA",
+      "Team": "CAA",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NjYyMjg2N15BMl5BanBnXkFtZTgwODgwOTM5NjE@._V1_.jpg"
     }
   ]
 }
