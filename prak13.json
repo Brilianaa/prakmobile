@@ -1,0 +1,67 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Taylor Swift",
+      "birth_date": "1989-12-13",
+      "Position": "Singer",
+      "International": "USA",
+      "Team": "Republic Records",
+      "Poster": "https://i.postimg.cc/y8TV60fg/taylor_swift.jpg"
+    },
+    {
+      "no": "2",
+      "name": "BTS",
+      "birth_date": "2013-06-13",
+      "Position": "Band",
+      "International": "South Korea",
+      "Team": "Big Hit Entertainment",
+      "Poster": "https://i.postimg.cc/VsPd7CBK/bts.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Adele",
+      "birth_date": "1988-05-05",
+      "Position": "Singer",
+      "International": "UK",
+      "Team": "Columbia Records",
+      "Poster": "https://i.postimg.cc/ncn9Yz5c/adele.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Chris Hemsworth",
+      "birth_date": "1983-08-11",
+      "Position": "Actor",
+      "International": "Australia",
+      "Team": "Creative Artists Agency",
+      "Poster": "https://i.postimg.cc/fLBX5H88/chris_hemsworth.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Emma Watson",
+      "birth_date": "1990-04-15",
+      "Position": "Actress",
+      "International": "UK",
+      "Team": "United Talent Agency",
+      "Poster": "https://i.postimg.cc/8czv2ZkW/emma_watson.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Robert Downey Jr.",
+      "birth_date": "1965-04-04",
+      "Position": "Actor",
+      "International": "USA",
+      "Team": "Creative Artists Agency",
+      "Poster": "https://i.postimg.cc/x1DP1yfb/robert_downey_jr.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Ariana Grande",
+      "birth_date": "1993-06-26",
+      "Position": "Singer",
+      "International": "USA",
+      "Team": "Republic Records",
+      "Poster": "https://i.postimg.cc/fy3cV0Jm/ariana_grande.jpg"
+    }
+  ]
+}
